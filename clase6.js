@@ -53,4 +53,4 @@ productos.save('Libro','12.000','url');
 productos.save('Celular','300.000','url');
 productos.save('Teclado','20.000','url');
 productos.read();
-productos.delete();
+// productos.delete();

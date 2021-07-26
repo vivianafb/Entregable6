@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Teclado",
+		"price": "20.000",
+		"thumbnail": "url",
+		"id": 1
+	}
+][
+	{
+		"title": "Libro",
+		"price": "12.000",
+		"thumbnail": "url",
+		"id": 1
+	}
+][
+	{
+		"title": "Celular",
+		"price": "300.000",
+		"thumbnail": "url",
+		"id": 1
+	}
+]
